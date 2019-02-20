@@ -17,7 +17,7 @@ git clone https://github.com/bpholbrook/hue.git
 Install the dependencies
 
 ```console
-cd Hue
+cd hue
 npm install
 ```
 
@@ -63,7 +63,7 @@ npm run deploy
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
