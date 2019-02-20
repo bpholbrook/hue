@@ -5175,7 +5175,7 @@ exports[`matches the snapshot 1`] = `
       <span
         className="Hue_Shade_Name"
       >
-         Black
+        Black
       </span>
       <span
         className="Hue_Shade_Hex"
