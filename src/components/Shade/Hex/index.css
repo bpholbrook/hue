@@ -1,0 +1,7 @@
+/* Hex styles */
+.Hue_Shade_Hex {
+  font-family: 'Roboto Mono', 'Roboto', "Courier New", Courier, "Lucida Console", Monaco, monospace;
+  font-weight: 500;
+  font-size: .91rem;
+  letter-spacing: 0.02rem;
+}

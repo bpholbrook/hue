@@ -1,0 +1,22 @@
+/* Shade styles */
+.Hue_Shade {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0.87rem;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  margin-top: -1px;
+  cursor: copy;
+}
+
+.Hue_Shade:first-child {
+  margin-top: 0px;
+}
+
+.Hue_Shade--light {
+  color: rgba(255, 255, 255, 0.87);
+}
+
+.Hue_Shade--dark {
+  color: rgba(0, 0, 0, 0.87);
+}

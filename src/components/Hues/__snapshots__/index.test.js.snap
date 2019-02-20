@@ -1,0 +1,5208 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches the snapshot 1`] = `
+<div
+  className="Hues"
+>
+  <div
+    className="Hue"
+  >
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFEBEE",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        Red 50
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffebee
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFCDD2",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffcdd2
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#EF9A9A",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ef9a9a
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#E57373",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        300
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #e57373
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#EF5350",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ef5350
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#F44336",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        500
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #f44336
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#E53935",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        600
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #e53935
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#D32F2F",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #d32f2f
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#C62828",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        800
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #c62828
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#B71C1C",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        900
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #b71c1c
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FF8A80",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ff8a80
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FF5252",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ff5252
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FF1744",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ff1744
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#D50000",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #d50000
+      </span>
+    </div>
+  </div>
+  <div
+    className="Hue"
+  >
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FCE4EC",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        Pink 50
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #fce4ec
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#F8BBD0",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #f8bbd0
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#F48FB1",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #f48fb1
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#F06292",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        300
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #f06292
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#EC407A",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ec407a
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#E91E63",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        500
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #e91e63
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#D81B60",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        600
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #d81b60
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#C2185B",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #c2185b
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#AD1457",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        800
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ad1457
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#880E4F",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        900
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #880e4f
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FF80AB",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ff80ab
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FF4081",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ff4081
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#F50057",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #f50057
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#C51162",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #c51162
+      </span>
+    </div>
+  </div>
+  <div
+    className="Hue"
+  >
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#F3E5F5",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        Purple 50
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #f3e5f5
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#E1BEE7",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #e1bee7
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#CE93D8",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ce93d8
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#BA68C8",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        300
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ba68c8
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#AB47BC",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ab47bc
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#9C27B0",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        500
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #9c27b0
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#8E24AA",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        600
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #8e24aa
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#7B1FA2",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #7b1fa2
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#6A1B9A",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        800
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #6a1b9a
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#4A148C",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        900
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #4a148c
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#EA80FC",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ea80fc
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#E040FB",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #e040fb
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#D500F9",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #d500f9
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#AA00FF",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #aa00ff
+      </span>
+    </div>
+  </div>
+  <div
+    className="Hue"
+  >
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#EDE7F6",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        Deep purple 50
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ede7f6
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#D1C4E9",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #d1c4e9
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#B39DDB",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #b39ddb
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#9575CD",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        300
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #9575cd
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#7E57C2",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #7e57c2
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#673AB7",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        500
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #673ab7
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#5E35B1",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        600
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #5e35b1
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#512DA8",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #512da8
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#4527A0",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        800
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #4527a0
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#311B92",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        900
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #311b92
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#B388FF",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #b388ff
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#7C4DFF",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #7c4dff
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#651FFF",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #651fff
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#6200EA",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #6200ea
+      </span>
+    </div>
+  </div>
+  <div
+    className="Hue"
+  >
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#E8EAF6",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        Indigo 50
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #e8eaf6
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#C5CAE9",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #c5cae9
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#9FA8DA",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #9fa8da
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#7986CB",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        300
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #7986cb
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#5C6BC0",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #5c6bc0
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#3F51B5",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        500
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #3f51b5
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#3949AB",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        600
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #3949ab
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#303F9F",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #303f9f
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#283593",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        800
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #283593
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#1A237E",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        900
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #1a237e
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#8C9EFF",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #8c9eff
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#536DFE",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #536dfe
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#3D5AFE",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #3d5afe
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#304FFE",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #304ffe
+      </span>
+    </div>
+  </div>
+  <div
+    className="Hue"
+  >
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#E3F2FD",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        Blue 50
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #e3f2fd
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#BBDEFB",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #bbdefb
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#90CAF9",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #90caf9
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#64B5F6",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        300
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #64b5f6
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#42A5F5",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #42a5f5
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#2196F3",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        500
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #2196f3
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#1E88E5",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        600
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #1e88e5
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#1976D2",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #1976d2
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#1565C0",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        800
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #1565c0
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#0D47A1",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        900
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #0d47a1
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#82B1FF",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #82b1ff
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#448AFF",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #448aff
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#2979FF",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #2979ff
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#2962FF",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #2962ff
+      </span>
+    </div>
+  </div>
+  <div
+    className="Hue"
+  >
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#E1F5FE",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        Light Blue 50
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #e1f5fe
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#B3E5FC",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #b3e5fc
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#81D4FA",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #81d4fa
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#4FC3F7",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        300
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #4fc3f7
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#29B6F6",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #29b6f6
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#03A9F4",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        500
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #03a9f4
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#039BE5",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        600
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #039be5
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#0288D1",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #0288d1
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#0277BD",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        800
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #0277bd
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#01579B",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        900
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #01579b
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#80D8FF",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #80d8ff
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#40C4FF",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #40c4ff
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#00B0FF",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #00b0ff
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#0091EA",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #0091ea
+      </span>
+    </div>
+  </div>
+  <div
+    className="Hue"
+  >
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#E0F7FA",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        Cyan 50
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #e0f7fa
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#B2EBF2",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #b2ebf2
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#80DEEA",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #80deea
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#4DD0E1",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        300
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #4dd0e1
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#26C6DA",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #26c6da
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#00BCD4",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        500
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #00bcd4
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#00ACC1",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        600
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #00acc1
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#0097A7",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #0097a7
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#00838F",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        800
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #00838f
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#006064",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        900
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #006064
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#84FFFF",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #84ffff
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#18FFFF",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #18ffff
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#00E5FF",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #00e5ff
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#00B8D4",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #00b8d4
+      </span>
+    </div>
+  </div>
+  <div
+    className="Hue"
+  >
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#E0F2F1",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        Teal 50
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #e0f2f1
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#B2DFDB",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #b2dfdb
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#80CBC4",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #80cbc4
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#4DB6AC",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        300
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #4db6ac
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#26A69A",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #26a69a
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#009688",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        500
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #009688
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#00897B",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        600
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #00897b
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#00796B",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #00796b
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#00695C",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        800
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #00695c
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#004D40",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        900
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #004d40
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#A7FFEB",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #a7ffeb
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#64FFDA",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #64ffda
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#1DE9B6",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #1de9b6
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#00BFA5",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #00bfa5
+      </span>
+    </div>
+  </div>
+  <div
+    className="Hue"
+  >
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#E8F5E9",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        Green 50
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #e8f5e9
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#C8E6C9",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #c8e6c9
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#A5D6A7",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #a5d6a7
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#81C784",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        300
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #81c784
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#66BB6A",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #66bb6a
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#4CAF50",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        500
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #4caf50
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#43A047",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        600
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #43a047
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#388E3C",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #388e3c
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#2E7D32",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        800
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #2e7d32
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#1B5E20",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        900
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #1b5e20
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#B9F6CA",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #b9f6ca
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#69F0AE",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #69f0ae
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#00E676",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #00e676
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#00C853",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #00c853
+      </span>
+    </div>
+  </div>
+  <div
+    className="Hue"
+  >
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#F1F8E9",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        Light Green 50
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #f1f8e9
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#DCEDC8",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #dcedc8
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#C5E1A5",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #c5e1a5
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#AED581",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        300
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #aed581
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#9CCC65",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #9ccc65
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#8BC34A",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        500
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #8bc34a
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#7CB342",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        600
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #7cb342
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#689F38",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #689f38
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#558B2F",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        800
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #558b2f
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#33691E",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        900
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #33691e
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#CCFF90",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ccff90
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#B2FF59",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #b2ff59
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#76FF03",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #76ff03
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#64DD17",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #64dd17
+      </span>
+    </div>
+  </div>
+  <div
+    className="Hue"
+  >
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#F9FBE7",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        Lime 50
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #f9fbe7
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#F0F4C3",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #f0f4c3
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#E6EE9C",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #e6ee9c
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#DCE775",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        300
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #dce775
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#D4E157",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #d4e157
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#CDDC39",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        500
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #cddc39
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#C0CA33",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        600
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #c0ca33
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#AFB42B",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #afb42b
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#9E9D24",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        800
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #9e9d24
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#827717",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        900
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #827717
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#F4FF81",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #f4ff81
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#EEFF41",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #eeff41
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#C6FF00",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #c6ff00
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#AEEA00",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #aeea00
+      </span>
+    </div>
+  </div>
+  <div
+    className="Hue"
+  >
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFFDE7",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        Yellow 50
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #fffde7
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFF9C4",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #fff9c4
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFF59D",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #fff59d
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFF176",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        300
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #fff176
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFEE58",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffee58
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFEB3B",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        500
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffeb3b
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FDD835",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        600
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #fdd835
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FBC02D",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #fbc02d
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#F9A825",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        800
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #f9a825
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#F57F17",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        900
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #f57f17
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFFF8D",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffff8d
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFFF00",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffff00
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFEA00",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffea00
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFD600",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffd600
+      </span>
+    </div>
+  </div>
+  <div
+    className="Hue"
+  >
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFF8E1",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        Amber 50
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #fff8e1
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFECB3",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffecb3
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFE082",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffe082
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFD54F",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        300
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffd54f
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFCA28",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffca28
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFC107",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        500
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffc107
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFB300",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        600
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffb300
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFA000",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffa000
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FF8F00",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        800
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ff8f00
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FF6F00",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        900
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ff6f00
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFE57F",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffe57f
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFD740",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffd740
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFC400",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffc400
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFAB00",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffab00
+      </span>
+    </div>
+  </div>
+  <div
+    className="Hue"
+  >
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFF3E0",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        Orange 50
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #fff3e0
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFE0B2",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffe0b2
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFCC80",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffcc80
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFB74D",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        300
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffb74d
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFA726",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffa726
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FF9800",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        500
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ff9800
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FB8C00",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        600
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #fb8c00
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#F57C00",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #f57c00
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#EF6C00",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        800
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ef6c00
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#E65100",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        900
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #e65100
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFD180",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffd180
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFAB40",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffab40
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FF9100",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ff9100
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FF6D00",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ff6d00
+      </span>
+    </div>
+  </div>
+  <div
+    className="Hue"
+  >
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FBE9E7",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        Deep Orange 50
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #fbe9e7
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFCCBC",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffccbc
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFAB91",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffab91
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FF8A65",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        300
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ff8a65
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FF7043",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ff7043
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FF5722",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        500
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ff5722
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#F4511E",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        600
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #f4511e
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#E64A19",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #e64a19
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#D84315",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        800
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #d84315
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#BF360C",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        900
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #bf360c
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FF9E80",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ff9e80
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FF6E40",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ff6e40
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FF3D00",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ff3d00
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#DD2C00",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        A700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #dd2c00
+      </span>
+    </div>
+  </div>
+  <div
+    className="Hue"
+  >
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#EFEBE9",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        Brown 50
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #efebe9
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#D7CCC8",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #d7ccc8
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#BCAAA4",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #bcaaa4
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#A1887F",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        300
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #a1887f
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#8D6E63",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #8d6e63
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#795548",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        500
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #795548
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#6D4C41",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        600
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #6d4c41
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#5D4037",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #5d4037
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#4E342E",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        800
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #4e342e
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#3E2723",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        900
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #3e2723
+      </span>
+    </div>
+  </div>
+  <div
+    className="Hue"
+  >
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FAFAFA",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        Gray 50
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #fafafa
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#F5F5F5",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #f5f5f5
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#EEEEEE",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #eeeeee
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#E0E0E0",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        300
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #e0e0e0
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#BDBDBD",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #bdbdbd
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#9E9E9E",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        500
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #9e9e9e
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#757575",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        600
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #757575
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#616161",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #616161
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#424242",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        800
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #424242
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#212121",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        900
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #212121
+      </span>
+    </div>
+  </div>
+  <div
+    className="Hue"
+  >
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#ECEFF1",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        Blue Gray 50
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #eceff1
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#CFD8DC",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        100
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #cfd8dc
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#B0BEC5",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        200
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #b0bec5
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#90A4AE",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        300
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #90a4ae
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#78909C",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        400
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #78909c
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#607D8B",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        500
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #607d8b
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#546E7A",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        600
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #546e7a
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#455A64",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        700
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #455a64
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#37474F",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        800
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #37474f
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#263238",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        900
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #263238
+      </span>
+    </div>
+  </div>
+  <div
+    className="Hue"
+  >
+    <div
+      className="Hue_Shade Hue_Shade--light"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#000000",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+         Black
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #000000
+      </span>
+    </div>
+    <div
+      className="Hue_Shade Hue_Shade--dark"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFFFFF",
+        }
+      }
+    >
+      <span
+        className="Hue_Shade_Name"
+      >
+        White
+      </span>
+      <span
+        className="Hue_Shade_Hex"
+      >
+        #ffffff
+      </span>
+    </div>
+  </div>
+</div>
+`;
