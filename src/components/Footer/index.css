@@ -1,0 +1,26 @@
+/* Footer styles */
+footer {
+  margin: 1.12rem;
+  padding: 1.12rem;
+  justify-content: center;
+}
+
+footer ul {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+footer ul li {
+  display: inline-flex;
+  font-weight: 500;
+  font-family: 'Roboto Mono';
+  font-size: .875rem;
+  padding: 1.12rem;
+}
+
+footer a {
+  color: #90a4ae;
+  text-decoration: none;
+}
