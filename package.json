@@ -4,8 +4,8 @@
   "private": true,
   "homepage": "https://bpholbrook.github.io/hue/",
   "dependencies": {
-    "react": "^16.8.2",
-    "react-dom": "^16.8.2",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
     "react-scripts": "2.1.5"
   },
   "scripts": {
@@ -29,6 +29,6 @@
   "devDependencies": {
     "express": "^4.16.4",
     "gh-pages": "^2.0.1",
-    "react-test-renderer": "^16.8.2"
+    "react-test-renderer": "^16.8.3"
   }
 }
