@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/hue/static/js/main.af4b40e2.chunk.js"
   },
   {
-    "revision": "0d41f906bf47efbfd46b",
-    "url": "/hue/static/js/2.0d41f906.chunk.js"
+    "revision": "a86f65541200bd9b5aca",
+    "url": "/hue/static/js/2.a86f6554.chunk.js"
   },
   {
     "revision": "af4b40e28c16d42dac8e",
     "url": "/hue/static/css/main.2a21d774.chunk.css"
   },
   {
-    "revision": "86bd265338847cf6f27bf4a56463fbdb",
+    "revision": "9e61a249251b97fb223fdd8d46a62ac2",
     "url": "/hue/index.html"
   }
 ];
