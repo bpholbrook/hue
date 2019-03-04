@@ -1,11 +1,47 @@
 /* Hue styles */
 .Hue {
   display: flex;
-  flex: 0 1 19rem;
+  flex: 0 calc(100% - 2.24rem);
   flex-direction: column;
   margin: 1.12rem;
   box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.2),
               0px 2px 2px 0px rgba(0,0,0,0.14),
               0px 3px 1px -2px rgba(0,0,0,0.12);
   height: 100%;
+}
+
+@media (min-width: 550px) {
+  .Hue {
+    flex: 0 calc(50% - 2.24rem);
+  }
+}
+
+@media (min-width: 890px) {
+  .Hue {
+    flex: 0 calc(33.33% - 2.24rem);
+  }
+}
+
+@media (min-width: 1171px) {
+  .Hue {
+    flex: 0 calc(25% - 2.24rem);
+  }
+}
+
+@media (min-width: 1440px) {
+  .Hue {
+    flex: 0 calc(20% - 2.24rem);
+  }
+}
+
+@media (min-width: 2330px) {
+  .Hue {
+    flex: 0 calc(20% - 2.24rem);
+  }
+}
+
+@media (min-width: 3770px) {
+  .Hue {
+    flex: 0 calc(16.66% - 2.24rem);
+  }
 }
