@@ -1,13 +1,15 @@
 {
-  "main.css": "/hue/static/css/main.5ee6e09a.chunk.css",
-  "main.js": "/hue/static/js/main.5c3b6f35.chunk.js",
-  "main.js.map": "/hue/static/js/main.5c3b6f35.chunk.js.map",
-  "runtime~main.js": "/hue/static/js/runtime~main.0c88a89a.js",
-  "runtime~main.js.map": "/hue/static/js/runtime~main.0c88a89a.js.map",
-  "static/js/2.081bc056.chunk.js": "/hue/static/js/2.081bc056.chunk.js",
-  "static/js/2.081bc056.chunk.js.map": "/hue/static/js/2.081bc056.chunk.js.map",
-  "index.html": "/hue/index.html",
-  "precache-manifest.8fb71e32706a9fab4a3477cbe46c9618.js": "/hue/precache-manifest.8fb71e32706a9fab4a3477cbe46c9618.js",
-  "service-worker.js": "/hue/service-worker.js",
-  "static/css/main.5ee6e09a.chunk.css.map": "/hue/static/css/main.5ee6e09a.chunk.css.map"
+  "files": {
+    "main.css": "/hue/static/css/main.a6e75273.chunk.css",
+    "main.js": "/hue/static/js/main.d19442ca.chunk.js",
+    "main.js.map": "/hue/static/js/main.d19442ca.chunk.js.map",
+    "runtime~main.js": "/hue/static/js/runtime~main.0c88a89a.js",
+    "runtime~main.js.map": "/hue/static/js/runtime~main.0c88a89a.js.map",
+    "static/js/2.87de6ad2.chunk.js": "/hue/static/js/2.87de6ad2.chunk.js",
+    "static/js/2.87de6ad2.chunk.js.map": "/hue/static/js/2.87de6ad2.chunk.js.map",
+    "index.html": "/hue/index.html",
+    "precache-manifest.c9c10c022faa8b06df3f52e7b4c2db35.js": "/hue/precache-manifest.c9c10c022faa8b06df3f52e7b4c2db35.js",
+    "service-worker.js": "/hue/service-worker.js",
+    "static/css/main.a6e75273.chunk.css.map": "/hue/static/css/main.a6e75273.chunk.css.map"
+  }
 }
