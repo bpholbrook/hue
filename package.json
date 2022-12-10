@@ -27,7 +27,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "express": "4.17.1",
+    "express": "4.17.3",
     "gh-pages": "^2.2.0",
     "react-test-renderer": "^16.13.1"
   }
